@@ -1,12 +1,12 @@
-# Support - Unfold
+# Support - Inscend
 
-**Last Updated:** April 2026
+**Last Updated:** November 12, 2026
 
 ## Get Help
 
-We're here to help! If you have questions, encounter issues, or need support with Unfold, please reach out.
+Help is here! If you have questions, encounter issues, or need support with Inscend, please reach out.
 
-## Contact Us
+## Contact Information
 
 **Email:** [verryperrysworld@gmail.com](mailto:verryperrysworld@gmail.com)
 
@@ -16,56 +16,47 @@ Please include:
 - Steps to reproduce the problem (if applicable)
 - Screenshots (if helpful)
 
-We'll do our best to respond within 48 hours.
 
 ## Frequently Asked Questions
 
-### Calendar Connection Issues
-
-**Q: Why won't my Google Calendar or Outlook connect?**
-A: Make sure you've granted the app permission to access your calendar in your device settings. You can also try disconnecting and reconnecting your calendar in the app's settings.
-
-**Q: Is my calendar data secure?**
-A: Yes! Your calendar data is stored locally on your device and encrypted using iOS Keychain. We never transmit your calendar data to external servers.
-
 ### AI Features
 
-**Q: Which AI providers does Unfold support?**
-A: Unfold supports Claude, OpenAI, and Google Gemini. You can choose your preferred provider in settings.
+**Q: Which AI providers does Inscend support?**
+A: Inscend supports On-Device AI when available, plus Claude, OpenAI, and Google Gemini. You can choose your preferred provider in settings.
 
 **Q: Do you store my conversations?**
-A: No. Conversations are sent directly to your chosen AI provider and managed according to their privacy policies. Unfold does not store these conversations.
+A: On-Device AI processes requests locally. With cloud AI, Inscend sends your prompt and relevant context directly to the provider you allow. Saving in People and World keeps the conversation separate from your writing. In You, AI perspectives you choose to keep are saved separately with a link to their source.
 
 **Q: Can I use my own API key?**
-A: Yes! You can add your own API keys for supported providers in the app's AI settings.
+A: Yes. Add your API key in AI Settings and choose **Allow sharing** for that provider. Use **Revoke cloud sharing** there to stop future requests.
 
 ### Data & Privacy
 
 **Q: Where is my data stored?**
-A: Your insights, reflections, and personal data are stored locally on your device. Optional cloud sync features (if enabled) store data on iCloud servers under your Apple account.
+A: Your writing in You, People, World, and shared app data is stored locally on your device. Optional cloud sync features (if enabled) store eligible saved data on iCloud servers under your Apple account.
 
 **Q: Can I delete my data?**
-A: Yes. You can delete individual entries within the app, or reset all data in Settings.
+A: Yes. You can delete individual entries within the app, or use **Erase all Inscend data on this device** in Privacy settings. If iCloud sync is active, the app queues the deletions for iCloud. A local-only erase leaves existing iCloud records intact.
 
-**Q: How do I disconnect my calendar?**
-A: Go to Settings → Calendars → [Your Calendar] → Disconnect. Your cached calendar data will be removed from the app.
+**Q: How do I export or restore my Inscend data?**
+A: Open Data & Backup from You, People, World, or app-wide Settings. One complete JSON backup includes available data from all three contexts, saved media, saved AI conversations or source-backed memory, and preferences. Import merges the available records without treating omissions as deletions. Older single-context backup files are also recognized. Credentials and device-security state are never included. Prepared backup files are protected on-device and removed when you rebuild one or leave the backup screen.
 
 ### App Crashes or Performance
 
 **Q: The app keeps crashing. What should I do?**
 A: Try these steps:
 1. Force close the app and restart your device
-2. Make sure you're running the latest version of Unfold
+2. Make sure you're running the latest version of Inscend
 3. Check that you have sufficient storage space on your device
 4. If the issue persists, email us with details about when the crash occurs
 
 **Q: The app feels slow or unresponsive.**
 A: This may happen if:
-- You have a large calendar with many events
 - Your device is low on storage or memory
 - You're using intensive AI features simultaneously
+- Use themes with still animations selected
 
-Try clearing the app's cache or closing other apps and try again.
+Try restarting Inscend or closing other apps and try again.
 
 ## Report a Bug
 
@@ -79,12 +70,12 @@ Email us at **verryperrysworld@gmail.com** with:
 
 ## Feature Requests
 
-Have an idea for a new feature? Send us your suggestions at **verryperrysworld@gmail.com**. We'd love to hear how we can make Unfold better!
+Have an idea for a new feature? Send us your suggestions at **verryperrysworld@gmail.com**. It would be awesome to hear how Inscend could be better!
 
 ## Additional Resources
 
-- [Privacy Policy](https://perrywiggins.github.io/privacy-policy/)
+- [Privacy Policy](https://verryperry.github.io/privacy-policy/)
 
 ---
 
-**Thank you for using Unfold!**
+**Thank you for using Inscend!**
